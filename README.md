@@ -1,0 +1,2 @@
+# multicut_randomized_rounding
+用randomized rounding的方法解决multicut问题
